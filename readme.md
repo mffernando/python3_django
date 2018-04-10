@@ -20,10 +20,14 @@ django-admin startproject project_name
 
 ## Run project:
 cd project_name
+
 python3 manage.py runserver
+
 *ignore the warning 'python manage.py migrate' for now.*
 
 ## Test in the browser:
 localhost:8000
+
+##
 
 If the message 'The install worked successfully! Congratulations!' django installation is ok.
